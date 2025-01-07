@@ -1,0 +1,3 @@
+# Techtopia_Gadgets
+
+This electronic gadgets e-commerce application is built using the .NET Framework and WebForms. It allows users to browse and purchase a variety of electronic products, such as smartphones, laptops, and accessories. The app features a user-friendly interface with product listings, detailed descriptions, and pricing information. It also includes user authentication for account creation and an order management system. With dynamic content rendered through WebForms, the app provides a seamless shopping experience, including features like adding products to the cart, reviewing orders, and tracking shipments. The application is designed to be scalable and secure, ensuring a smooth and safe shopping experience for users.
