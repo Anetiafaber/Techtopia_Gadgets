@@ -1,0 +1,310 @@
+﻿html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.body-content {
+    flex: 1;
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(25, 45, 80);
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+    .footer-content img {
+        height: 45px;
+        margin-bottom: 10px;
+    }
+
+
+/*.body-content {*/
+    /*margin-top: 15px;*/
+    /*padding-left: 15px;
+    padding-right: 15px;
+}*/
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+.bg-theme-blue {
+    background-color: rgb(25 45 80) !important;
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: rgb(255 255 255) !important;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    color: white !important;
+}
+
+/*footer {
+    background-color: rgb(25, 45, 80);
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+}*/
+
+/*.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}*/
+
+    /*.footer-content img {
+        height: 45px;
+    }*/
+
+    .footer-content a {
+        color: white;
+        text-decoration: none;
+    }
+
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.table-custom-header {
+    background-color: rgb(25, 45, 80) !important;
+    color: white !important;
+}
+
+.table-dark {
+    /*--bs-table-bg: rgb(25, 45, 80) !important;
+    --bs-table-border-color: rgb(25, 45, 80) !important;*/
+}
+
+/* Admin page */
+
+/*.admin-main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}*/
+
+.admin-container-fluid {
+    display: flex;
+    flex: 1;
+    height: 100%;
+}
+
+.admin-row {
+    display: flex;
+    flex: 1;
+    height: 100%;
+}
+
+.admin-main-content {
+    flex-grow: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.bg-admin-nav {
+    background-color: #fafafa;
+}
+
+.admin-nav .nav-link {
+    color: black !important;
+    padding: 1rem 1.5rem !important;
+}
+
+.admin-nav-icon {
+    height: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.admin-sidebar {
+    width: 23%;
+    /*height: 100%;*/
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 0;
+    flex-shrink: 0;
+    margin: 10px 0;
+    overflow-y: auto;
+    min-height: 100vh;
+}
+
+.admin-nav .nav-link:active, .admin-nav .nav-link:focus,
+.admin-nav .nav-link.selected-nav-item, .selected-nav-item {
+    background-color: #e0e0e0 !important;
+}
+
+.categoryContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.categoryInputBox {
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoryLabel {
+    width: 100%;
+    white-space: nowrap;
+}
+
+.tableContainer {
+    margin: 2rem 0;
+}
+
+.data-list-header,
+.data-list-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+    .data-list-header span,
+    .data-list-item .data-list-column {
+        width: 25%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+.card-bgd {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+    -o-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+    -ms-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+}
+
+.custom-card {
+    max-width: 900px;
+    margin: 4rem auto;
+}
+
+.categoryMaintainHeader, .prdMaintainHeader, .prdDetailsHeader {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.categoryMaintainBox, .prdMaintainContainer, .prdDetailsBox {
+    margin: 2rem 0;
+}
+
+.newCategoryBox {
+    display: flex;
+    justify-content: center;
+    column-gap: 1rem;
+}
+
+.newCategoryBtn {
+    height: fit-content;
+    top: 27px;
+    position: relative;
+}
+
+.custom-card-prdMaintain {
+    max-width: 1100px !important;
+}
+
+.prdMaintainBox {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 1rem;
+}
+
+a {
+    color: black;
+}
+
+.columnHeader a {
+    color: white;
+    font-weight: 500;
+}
+
+.editBtn a, .selectBtn a {
+    color: var(--bs-link-color);
+}
+
+.deleteBtn a {
+    color: #dc3545;
+}
+
+.actionBtn a {
+    font-weight: 500;
+    margin-left: 0.5em;
+}
+
+    .actionBtn a:nth-of-type(1) {
+        color: var(--bs-link-color) !important;
+    }
+
+    .actionBtn a:nth-of-type(2) {
+        color: #dc3545 !important;
+    }
+
+.pagerStyle {
+    font-weight: bold;
+}
+
+    .pagerStyle a, .pagerStyle span {
+        margin-left: 1em;
+    }
+
+    .pagerStyle a {
+        color: white;
+    }
+
+    .pagerStyle span {
+        color: #c2adad;
+    }
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .body-content {
+        padding: 0;
+        margin: 0;
+    }
+}

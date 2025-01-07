@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|c:\\users\\hp\\source\\repos\\techtopia_groupproject\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\thankyou.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:thankyou.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4E48CD-ED3A-487B-AC19-16CF9D012A43}|TechTopia_GroupProject.csproj|solutionrelative:checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Cart.aspx",
+              "RelativeDocumentMoniker": "Cart.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Cart.aspx",
+              "RelativeToolTip": "Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T21:21:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThankYou.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\ThankYou.aspx.cs",
+              "RelativeDocumentMoniker": "ThankYou.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\ThankYou.aspx.cs",
+              "RelativeToolTip": "ThankYou.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:15:05.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T14:14:16.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Content\\Site.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Content\\Site.css",
+              "RelativeToolTip": "Content\\Site.css",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-12T05:20:50.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T05:13:49.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Site.Master.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Site.Master.cs",
+              "RelativeToolTip": "Site.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:05:48.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Checkout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Checkout.aspx.cs",
+              "RelativeDocumentMoniker": "Checkout.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Checkout.aspx.cs",
+              "RelativeToolTip": "Checkout.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:03:49.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Cart.aspx.cs",
+              "RelativeToolTip": "Cart.aspx.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:03:41.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Admin.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Admin.aspx.cs",
+              "RelativeToolTip": "Admin.aspx.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAA0wBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:00:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Admin.aspx",
+              "RelativeDocumentMoniker": "Admin.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TechTopia_GroupProject\\Admin.aspx",
+              "RelativeToolTip": "Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T04:54:20.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
